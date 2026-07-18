@@ -2,11 +2,11 @@
 
 ### About Me
 
-Hey, I'm Shyam — a software engineer and team lead. I've spent 6+ years building distributed systems, data infrastructure, and ML platforms in production. Now I'm bringing that same systems depth to physical AI.
+👋 Hey, I'm Shyam — a software engineer and team lead. I've spent 6+ years building distributed systems, data infrastructure, and ML platforms in production. Now I'm bringing that same systems depth to physical AI.
 
 ---
 
-### Areas of Interest
+### 🧠 Areas of Interest
 
 - Data infrastructure, ML platforms, and observability at production scale.
 - Core robotics problems — perception, SLAM, motion planning.
@@ -15,9 +15,9 @@ If this is your world too, I'd like to talk.
 
 ---
 
-### Currently Working On
+### 🚧 Currently Working On
 
-**Language or Shortcut? Testing What VLA Policies Actually Condition On**
+**Language Grounding in VLA Models: Signal or Shortcut?**
 
 A Vision-Language-Action model could be reading the scene and ignoring its instruction entirely, and you'd never know. I built a causal evaluation harness on LIBERO that holds the scene fixed and perturbs only the instruction, to isolate which one the policy actually uses. Baseline on SmolVLA-450M: 55% task success. Next: run the perturbation conditions and see where that number moves.
 
@@ -25,7 +25,7 @@ A Vision-Language-Action model could be reading the scene and ignoring its instr
 
 ---
 
-### Selected Robotics and AI Projects
+### 🤖 Selected Robotics and AI Projects
 
 <table>
 <tr>
@@ -96,7 +96,7 @@ Better RRT* variants are usually validated assuming holonomic motion — a robot
 
 ---
 
-### Elsewhere
+### 📚 Elsewhere
 
 I like breaking hard technical ideas down to first principles and explaining them simply — API retry strategies, write-ahead logs, the OSI model, design patterns, ML fundamentals. Some of that is written up on [Medium](https://medium.com/@shyamsreeni.612), some of it's on [YouTube](https://www.youtube.com/@minuteml9114).
 
