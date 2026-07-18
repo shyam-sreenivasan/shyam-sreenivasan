@@ -2,7 +2,7 @@
 
 ### About Me
 
-👋 Hey, I'm Shyam — a software engineer and team lead. I've spent 6+ years building distributed systems, data infrastructure, and ML platforms in production. Now I'm bringing that same systems depth to physical AI.
+👋 Hey, I'm Shyam — a software engineer and team lead. I've spent 6+ years building distributed systems, data infrastructure, and ML platforms serving 1M+ users in production. Now I'm bringing that same systems depth to Robotics/Physical AI.
 
 ---
 
